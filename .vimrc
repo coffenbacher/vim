@@ -6,4 +6,4 @@ colorscheme molokai
 set t_Co=256
 set background=light
 set runtimepath^=~/.vim/bundle/ctrlp.vim
-set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*/venv/*
+set wildignore+=*/tmp/*,*.so,*.swp,*.zip,*/venv/*,*.pyc
